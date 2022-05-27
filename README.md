@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://github.com/Neeraj-Antil/Neeraj-Antil/blob/home/Prog.png' height='200px' width='200px' />
+  <img src='https://github.com/Neeraj-Antil/Neeraj-Antil/blob/home/Programmer.png' height='250px' width='250px' />
 </div>
 <pre align='center'><h2>Neeraj Antil</h2><i>CS Student at Government Polytechnic of Sonipat</i>
 </pre>
