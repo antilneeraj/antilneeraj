@@ -23,4 +23,10 @@
  &nbsp;&nbsp; ৹ Advance C concepts<br><br>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+## 🔥 Stats —
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neeraj-Antil&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
