@@ -7,10 +7,11 @@
 <hr>
 
 ## 👨🏻‍💻 Me —
-  ৹ I'm a currently a student of Computer Science.<br>
-  ৹ I'm a part-time programmer.<br>
-  ৹ My areas of interest are programming and editing.<br>
-  
+  &nbsp;&nbsp;৹ I'm a currently a student of Computer Science.<br>
+  &nbsp;&nbsp;৹ I'm a part-time programmer.<br>
+  &nbsp;&nbsp;৹ My areas of interest are programming and editing.<br>
+<hr>
+
 ## ⚒️ Stack —
   <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px'>
@@ -18,7 +19,8 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px'>
   </div>
   <b>I'm currently learning —</b><br>
-  ৹ Core JAVA as a Begginer<br>
-  ৹ Advance C concepts<br>
+ &nbsp;&nbsp; ৹ Core JAVA as a Begginer<br>
+ &nbsp;&nbsp; ৹ Advance C concepts<br><br>
+  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
