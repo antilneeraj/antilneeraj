@@ -14,14 +14,15 @@
 
 ## ⚒️ Stack —
   <div>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px'>
-  <!--  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px'> -->
-    <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px' title = "C">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height = '50px' width = '50px' title = "NodeJS">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
   </div>
   <b>I'm currently learning —</b><br>
- &nbsp;&nbsp; ৹ Core JAVA as a Begginer<br>
- &nbsp;&nbsp; ৹ Advance C concepts<br><br>
-  
+  &nbsp;&nbsp; ৹ Advance C concepts<br>
+  &nbsp;&nbsp; ৹ Node JS<br> 
+  &nbsp;&nbsp; ৹ Core JAVA as a Begginer<br>
+   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
