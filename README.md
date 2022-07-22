@@ -1,8 +1,8 @@
 <div align='center'>
   <img src='https://github.com/Neeraj-Antil/Neeraj-Antil/blob/home/Programmer.png' height='250px' width='250px' />
 </div>
-<pre align='center'><h2>Neeraj Antil</h2><i>CS Student at Government Polytechnic of Sonipat</i>
-</pre>
+<pre align='center'><h2><i>CS Student at Government Polytechnic of Sonipat</i></h2></pre>
+ <div align = "center"><img src="https://komarev.com/ghpvc/?username=Neeraj-Antil&style=flat-square&color=blue" height='21px' width = '110px'/></div>
 <h1 align='center'>Hey! 👋</h1>
 <hr>
 
@@ -21,7 +21,7 @@
   <b>I'm currently learning —</b><br>
   &nbsp;&nbsp; ৹ Advance C concepts<br>
   &nbsp;&nbsp; ৹ Node JS<br> 
-  &nbsp;&nbsp; ৹ Core JAVA as a Begginer<br>
+  &nbsp;&nbsp; ৹ Core JAVA as a Begginer<br><br><br>
    
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
