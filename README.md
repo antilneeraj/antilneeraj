@@ -15,7 +15,7 @@
 ## ⚒️ Stack —
   <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px' title = "C">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' height = '50px' width = '50px' title = "NodeJS">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "NodeJS">
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
   </div>
   <b>I'm currently learning —</b><br>
