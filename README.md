@@ -10,11 +10,6 @@
 
 <hr>
 
-## 👨🏻‍💻 Me —
-  &nbsp;&nbsp;৹ I'm a currently a student of Computer Science.<br>
-  &nbsp;&nbsp;৹ I'm a part-time programmer.<br>
-  &nbsp;&nbsp;৹ My areas of interest are programming and chess.<br>
-<hr>
 
 ## ⚒️ Stack —
   <div>
@@ -31,14 +26,28 @@
   &nbsp;&nbsp; ৹ Python<br>
   &nbsp;&nbsp; ৹ PHP<br> 
   &nbsp;&nbsp; ৹ Android using JAVA<br><br><br>
-   
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+## 🌟 Top Repositories :
+
+<div>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Python_To_C&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Students_Management_System&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=PyBuiltins&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Memory-Allocation&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Playing-With-Arrays&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=C-Matrices&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+</div>
 
 <hr>
 
 ## 🔥 Stats —
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neeraj-Antil&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://git.io/streak-stats'>
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=Neeraj-Antil&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='190px'>
+</a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de' height='130px'>
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
