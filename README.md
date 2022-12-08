@@ -5,7 +5,7 @@
  <div align = "center"><img src="https://komarev.com/ghpvc/?username=Neeraj-Antil&style=flat-square&color=blue" height='21px' width = '110px'/></div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font='trebuchet+ms'&color=61ed44&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Neeraj;a+passionate+programmer+and;Computer+Engineering+student++from+India" alt="Hey! 👋" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font='trebuchet+ms'&color=61ed44&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Neeraj;A+passionate+programmer+and;Computer+Engineering+Student++from+India" alt="Hey! 👋" /></a>
 </div>
 
 <hr>
