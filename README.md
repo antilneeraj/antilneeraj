@@ -5,7 +5,7 @@
  <div align = "center"><img src="https://komarev.com/ghpvc/?username=Neeraj-Antil&style=flat-square&color=blue" height='21px' width = '110px'/></div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font='trebuchet+ms'&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Neeraj;a+passionate+programmer+and;Computer+Engineering+student++from+India" alt="Hey! 👋" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font='trebuchet+ms'&color=61ed44&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Neeraj;a+passionate+programmer+and;Computer+Engineering+student++from+India" alt="Hey! 👋" /></a>
 </div>
 
 <hr>
@@ -32,12 +32,12 @@
 ## 🌟 Top Repositories :
 
 <div>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=uConverter&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Students_Management_System&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Python_To_C&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Memory-Allocation&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=PyBuiltins&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
-  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=C-Matrices&theme=react&bg_color=0d1017&title_color=6ec6de&icon_color=6ec6de&border_color=6ec6de'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=uConverter&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Students_Management_System&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Python_To_C&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=Memory-Allocation&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=PyBuiltins&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/Neeraj-Antil/'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Neeraj-Antil&repo=C-Matrices&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
 </div>
 
 <hr>
@@ -45,9 +45,9 @@
 ## 🔥 Stats —
 
 <a href='https://git.io/streak-stats'>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=Neeraj-Antil&theme=dark&currStreakLabel=6ec6de&ring=6ec6de&fire=6ec6de&stroke=6ec6de&border=6ec6de&background=0d1017' height='190px'>
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=Neeraj-Antil&theme=dark&currStreakLabel=6ce6de&ring=6ce6de&fire=61ed44&stroke=61ed44&border=61ed44&background=0d1017' height='190px'>
 </a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de&border_color=6ec6de' height='130px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ce6de&border_color=61ed44' height='130px'>
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&color=61ed44&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
