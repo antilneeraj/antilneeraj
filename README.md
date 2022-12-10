@@ -50,4 +50,4 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ce6de&border_color=61ed44' height='130px'>
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&color=61ed44&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Neeraj's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&color=61ed44&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
