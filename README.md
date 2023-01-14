@@ -16,7 +16,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px' title = "C">
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "NodeJS">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "JS">
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
     <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px' title = "Python">
     <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height = '50px' width = '50px' title = "PHP">
