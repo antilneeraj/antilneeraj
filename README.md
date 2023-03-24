@@ -47,7 +47,7 @@
 <a href='https://git.io/streak-stats'>
   <img src='http://github-readme-streak-stats.herokuapp.com?user=Neeraj-Antil&theme=dark&currStreakLabel=6ce6de&ring=6ce6de&fire=61ed44&stroke=61ed44&border=61ed44&background=0d1017' height='190px'>
 </a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ce6de&border_color=61ed44' height='130px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Antil&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de' height='130px'>
 </a>
 
 [![Neeraj's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj-Antil&theme=react&color=61ed44&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
