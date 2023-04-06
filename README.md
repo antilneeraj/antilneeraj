@@ -22,10 +22,6 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height = '50px' width = '50px' title = "PHP">
     <img src='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg' height = '50px' width = '50px' title = "Android">
   </div>
-  <b>I'm currently learning —</b><br>
-  &nbsp;&nbsp; ৹ Python<br>
-  &nbsp;&nbsp; ৹ PHP<br> 
-  &nbsp;&nbsp; ৹ Android using JAVA<br><br><br>
 
 <hr>
 
