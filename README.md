@@ -23,7 +23,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px' title = "Python">
     <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height = '50px' width = '50px' title = "PHP">
     <img src='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg' height = '50px' width = '50px' title = "Android">
-
+    <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' height = '50px' width = '50px' title = "Vue">
   </div>
 
 <hr>
