@@ -49,4 +49,4 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de' height='130px'>
 </a>
 
-[![Neeraj's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=antilneeraj&theme=react&color=61ed44&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=292c34&color=ffffff&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
