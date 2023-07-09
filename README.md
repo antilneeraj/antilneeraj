@@ -46,11 +46,6 @@
 <hr>
 
 ## 🔥 Stats —
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=antilneeraj&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de)
 
-<a href='https://git.io/streak-stats'>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=antilneeraj&theme=dark&currStreakLabel=6ce6de&ring=6ce6de&fire=61ed44&stroke=61ed44&border=61ed44&background=0d1017' height='190px'>
-</a>  <a href='https://github.com/anuraghazra/github-readme-stats'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&background=0d1017&show_icons=true&bg_color=0d1017&title_color=6ec6de' height='130px'>
-</a>
-
-[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=292c34&color=ffffff&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
