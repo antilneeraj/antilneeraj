@@ -13,19 +13,23 @@
 
 ## ⚒️ Stack —
   <div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
     <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px' title = "C">
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
     <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' height = '50px' width = '50px' title='TailwindCSS'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "JS">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height = '50px' width = '50px' title = "React">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px' title = "Python">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' height = '50px' width = '50px' title = "Bootstrap">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "Javascript">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height = '50px' width = '50px' title = "ReactJS">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' height = '50px' width = '50px' title = "VueJS">
     <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height = '50px' width = '50px' title = "PHP">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px' title = "Python">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
     <img src='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg' height = '50px' width = '50px' title = "Android">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' height = '50px' width = '50px' title = "Vue">
+    <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' height = '50px' width = '50px' title = 'Figma'>
   </div>
-
+  
 <hr>
 
 ## 🌟 Top Repositories :
