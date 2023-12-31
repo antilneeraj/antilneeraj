@@ -1,7 +1,7 @@
 <div align='center'>
   <img src='https://github.com/antilneeraj/antilneeraj/blob/home/Programmer.png' height='250px' width='250px' />
 </div>
-<pre align='center'><h2><i>CS Student at Government Polytechnic of Sonipat</i></h2></pre>
+<pre align='center'><h2><i>Coders: Transforming caffeine into code</i></h2></pre>
  <div align = "center"><img src="https://komarev.com/ghpvc/?username=antilneeraj&style=flat-square&color=blue" height='21px' width = '110px'/></div>
 
 <div align="center">
