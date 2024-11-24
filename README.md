@@ -47,11 +47,10 @@
 
 ## 🔥 Stats —
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antilneeraj&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=antilneeraj&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
 </a>
-<a href="#">
-  <img height="296" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-</a>
+
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
