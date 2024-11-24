@@ -35,17 +35,23 @@
 ## 🌟 Top Repositories :
 
 <div>
+  <a href='https://github.com/antilneeraj/EnergyConsumptionAnalysis'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=EnergyConsumptionAnalysis&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
   <a href='https://github.com/antilneeraj/youtube-clone'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=youtube-clone&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
-  <a href='https://github.com/antilneeraj/SMS'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=SMS&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
-  <a href='https://github.com/antilneeraj/GFG-POTD'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=GFG-POTD&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
   <a href='https://github.com/antilneeraj/Flappybird'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=Flappybird&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
   <a href='https://github.com/antilneeraj/AuthenticationApp'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=AuthenticationApp&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
   <a href='https://github.com/antilneeraj/Minesweeper'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=Minesweeper&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
+  <a href='https://github.com/antilneeraj/SMS'><img src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antilneeraj&repo=SMS&theme=react&bg_color=0d1017&title_color=6ce6de&icon_color=61ed44&border_color=61ed44'></a>
 </div>
 
 <hr>
 
 ## 🔥 Stats —
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=antilneeraj&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de)
-
-[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antilneeraj&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antilneeraj&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de" />
+</a>
+<a href="#">
+  <img height="296" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=antilneeraj&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</a>
