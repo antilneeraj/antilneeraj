@@ -11,24 +11,81 @@
 <hr>
 
 
-## ⚒️ Stack —
-  <div>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height = '50px' width = '50px' title = "VS Code">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' height = '50px' width = '50px' title = "C">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' height = '50px' width = '50px' title = "HTML5">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height = '50px' width = '50px' title = "CSS3">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg' height = '50px' width = '50px' title='TailwindCSS'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' height = '50px' width = '50px' title = "Bootstrap">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' height = '50px' width = '50px' title = "Javascript">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' height = '50px' width = '50px' title = "ReactJS">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg' height = '50px' width = '50px' title = "VueJS">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' height = '50px' width = '50px' title = "PHP">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' height = '50px' width = '50px' title = "MySQL">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height = '50px' width = '50px' title = "Python">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height = '50px' width = '50px' title = "JAVA">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg' height = '50px' width = '50px' title = "Android">
-    <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' height = '50px' width = '50px' title = 'Figma'>
-  </div>
+## ⚒️ Tech Stack —
+
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50px" width="50px" title="HTML5">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50px" width="50px" title="CSS3">
+  </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="50px" width="50px" title="TailwindCSS">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50px" width="50px" title="JavaScript">
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="50px" width="50px" title="ReactJS">
+  </a>
+  
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="50px" width="50px" title="VueJS">
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="50px" width="50px" title="TypeScript">
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="50px" width="50px" title="NextJS">
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" title="NodeJS">
+  </a>
+  
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50px" width="50px" title="JAVA">
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50px" width="50px" title="Python">
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="50px" width="50px" title="MongoDB">
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50px" width="50px" title="MySQL">
+  </a>
+  
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" height="50px" width="50px" title="Android">
+  </a>
+  
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="50px" width="50px" title="Kotlin">
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" width="50px" title="Figma">
+  </a>
+  
+  <a href="https://www.r-project.org/about.html" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="50px" width="50px" title="R">
+  </a>
+  
+  <a href="https://www.w3.org/Graphics/SVG/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/svg-2.svg" height="50px" width="50px" title="SVG">
+  </a>
+</div>
+
   
 <hr>
 
