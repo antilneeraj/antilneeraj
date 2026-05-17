@@ -44,7 +44,7 @@ export function AboutSection() {
           <div className="mb-6 flex flex-row items-center justify-evenly gap-4">
             <div className="relative h-40 w-36 shrink-0 overflow-hidden rounded border border-[#C9A84C]/30 bg-[#1C2E1F] shadow-[0_0_15px_rgba(201,168,76,0.15)]">
               <img
-                src="src/assets/avatar.png"
+                src="https://raw.githubusercontent.com/antilneeraj/antilneeraj/refs/heads/main/src/assets/avatar.png"
                 alt="Neeraj Antil Profile"
                 className="object-fit brightness-120 aspect-square h-full w-full mix-blend-multiply contrast-125 grayscale"
               />
