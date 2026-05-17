@@ -9,7 +9,373 @@
     box-sizing: border-box;
   }
 
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+    scroll-padding-top: 4rem;
+  }
+
   body {
-    @apply bg-white text-gray-900 antialiased;
+    background-color: #0d1a0f;
+    color: #e8e0cc;
+    font-family: 'Exo 2', sans-serif;
+    min-height: 100dvh;
+    overflow-x: hidden;
+  }
+
+  /* Cursor */
+  ::selection {
+    background: rgba(201, 168, 76, 0.25);
+    color: #f5f0e8;
+  }
+
+  :focus-visible {
+    outline: 2px solid #c9a84c;
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0d1a0f;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2d4030;
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #4a7c59;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Grid Background Pattern — matches Stitch design */
+  .grid-bg {
+    background-size: 64px 64px;
+    background-image:
+      linear-gradient(to right, #2d4030 1px, transparent 1px),
+      linear-gradient(to bottom, #2d4030 1px, transparent 1px);
+    background-position: top center;
+  }
+
+  /* Topographic Pattern */
+  .topo-bg {
+    background-image:
+      repeating-radial-gradient(circle at 0 0, transparent 0, #0d1a0f 10px),
+      repeating-linear-gradient(#2d403055, #2d403055);
+  }
+
+  /* CRT Scanline Effect Overlay */
+  .scanlines {
+    background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0) 50%,
+      rgba(0, 0, 0, 0.15) 50%,
+      rgba(0, 0, 0, 0.15)
+    );
+    background-size: 100% 4px;
+    pointer-events: none;
+  }
+
+  /* Corner Brackets for Tactical UI */
+  .bracket-container {
+    position: relative;
+  }
+  .bracket-container::before,
+  .bracket-container::after {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-color: #c9a84c;
+    border-style: solid;
+  }
+  .bracket-tl::before {
+    top: -1px;
+    left: -1px;
+    border-width: 2px 0 0 2px;
+  }
+  .bracket-tr::after {
+    top: -1px;
+    right: -1px;
+    border-width: 2px 2px 0 0;
+  }
+  .bracket-bl::before {
+    bottom: -1px;
+    left: -1px;
+    border-width: 0 0 2px 2px;
+  }
+  .bracket-br::after {
+    bottom: -1px;
+    right: -1px;
+    border-width: 0 2px 2px 0;
+  }
+  .bracket-full::before {
+    top: -1px;
+    left: -1px;
+    border-width: 2px 0 0 2px;
+  }
+  .bracket-full::after {
+    bottom: -1px;
+    right: -1px;
+    border-width: 0 2px 2px 0;
+  }
+
+  /* Tactical Card */
+  .tactical-card {
+    background-color: #122115;
+    border: 1px solid #2d4030;
+    position: relative;
+  }
+  .tactical-card-header {
+    background-color: #1c2e1f;
+    border-bottom: 1px solid #2d4030;
+    padding: 8px 16px;
+  }
+
+  /* ─── Orbital Arsenal Visualization ─── */
+  .orbit-container {
+    position: relative;
+    width: 100%;
+    max-width: 420px;
+    aspect-ratio: 1 / 1;
+    margin: 0 auto;
+  }
+
+  /* Orbit rings — purely visual dashed circles, NO children */
+  .orbit-ring {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 1px dashed rgba(45, 64, 48, 0.6);
+    border-radius: 50%;
+    animation: orbit-ring-spin linear infinite;
+    pointer-events: none;
+  }
+
+  /* Node wrapper — sits at center, spin animation moves it along the orbit path */
+  .skill-node-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 10;
+    animation: orbit-node-spin linear infinite;
+  }
+
+  /* The visible node — counter-spins so the icon stays upright */
+  .skill-node {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #122115;
+    border: 1px solid #4a7c59;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e8e0cc;
+    cursor: pointer;
+    position: relative;
+    animation: skill-counter-spin linear infinite;
+    scale: 1;
+    /* Transition independent properties */
+    transition:
+      background-color 0.25s ease,
+      border-color 0.25s ease,
+      box-shadow 0.25s ease,
+      scale 0.25s ease;
+  }
+
+  /* Per-tier styling */
+  .orbit-tier-1 {
+    border-color: #c9a84c;
+  }
+  .orbit-tier-2 {
+    border-color: #4a7c59;
+  }
+  .orbit-tier-3 {
+    border-color: #4a7c59;
+  }
+
+  /* Hover state — NO transform override, so counter-spin animation isn't disrupted */
+  .skill-node:hover {
+    background-color: rgba(74, 124, 89, 0.6);
+    border-color: #c9a84c;
+    box-shadow: 0 0 16px rgba(201, 168, 76, 0.35);
+    scale: 1.15;
+  }
+  .orbit-tier-1:hover {
+    background-color: rgba(201, 168, 76, 0.2);
+    border-color: #c9a84c;
+  }
+
+  /* Tooltip — positioned above the node, NOT clipped by any parent */
+  .skill-tooltip {
+    position: absolute;
+    bottom: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(28, 46, 31, 0.95);
+    backdrop-filter: blur(6px);
+    border: 1px solid #c9a84c;
+    border-radius: 3px;
+    padding: 4px 10px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition:
+      opacity 0.2s ease,
+      visibility 0.2s ease;
+    pointer-events: none;
+    z-index: 50;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    color: #c9a84c;
+    text-transform: uppercase;
+  }
+
+  .skill-node:hover .skill-tooltip {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* Central core */
+  .central-core {
+    width: 52px;
+    height: 52px;
+    background-color: #1c2e1f;
+    border: 2px solid #c9a84c;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #c9a84c;
+    z-index: 5;
+    box-shadow: 0 0 20px rgba(201, 168, 76, 0.25);
+  }
+}
+
+@layer utilities {
+  .font-rajdhani {
+    font-family: 'Rajdhani', sans-serif;
+  }
+  .font-exo {
+    font-family: 'Exo 2', sans-serif;
+  }
+  .font-jetbrains {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* ─── Orbit Keyframes ─── */
+/* Ring spin: keeps centered with translate, adds rotation */
+@keyframes orbit-ring-spin {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+/* Node wrapper spin: rotates around the center carrying the node along the orbit path.
+   The initial translate offset (set via inline style) defines the orbit radius.
+   We animate rotation around the wrapper's own origin (top-left = center of container). */
+@keyframes orbit-node-spin {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: 360deg;
+  }
+}
+
+/* Counter-spin for the icon to stay upright */
+@keyframes skill-counter-spin {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: -360deg;
+  }
+}
+
+/* Loading screen scan animation */
+@keyframes scanDown {
+  0% {
+    top: -4px;
+  }
+  100% {
+    top: 100%;
+  }
+}
+
+@keyframes progressFill {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes slideUpOut {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+}
+
+@keyframes bounceChevron {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
