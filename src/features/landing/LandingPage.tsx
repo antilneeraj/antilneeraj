@@ -13,13 +13,19 @@ export function LandingPage() {
     <>
       <LoadingScreen />
       <main
-        className={`transition-opacity duration-600 ${isLoading ? 'opacity-0' : 'opacity-100'}`}
+        className={`relative transition-opacity duration-600 ${isLoading ? 'opacity-0' : 'opacity-100'}`}
         aria-label="Neeraj Antil — Portfolio"
       >
         <HeroSection />
         <StatusBanner />
-        <AboutSection />
-        <SocialChannels />
+
+        <div className="relative w-full">
+          <div className="grid-bg pointer-events-none absolute inset-0 -z-10 opacity-60" />
+
+          <AboutSection />
+          <SocialChannels />
+        </div>
+
         <SiteFooter />
       </main>
     </>

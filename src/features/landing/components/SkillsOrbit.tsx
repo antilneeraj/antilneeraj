@@ -65,27 +65,27 @@ export default function SkillsOrbit() {
 
         return orbit.skills.map((skill, skillIdx) => {
           const angle = (360 / orbit.skills.length) * skillIdx - 90
-          const angleRad = (angle * Math.PI) / 180
-          const x = Math.cos(angleRad) * r
-          const y = Math.sin(angleRad) * r
 
           return (
             <div
               key={skill.name}
               className="skill-node-wrapper"
-              style={{
-                // Position at center, then offset to orbit position
-                transform: `translate(calc(-50% + ${x}px), calc(-50% + ${y}px))`,
-                animationDuration: `${dur}s`,
-                animationDirection: dir,
-                animationPlayState: isPaused ? 'paused' : 'running',
-              }}
+              style={
+                {
+                  '--angle': `${angle}deg`,
+                  '--inv-angle': `${-angle}deg`,
+                  '--radius': `${r}px`,
+                  animationDuration: `${dur}s`,
+                  animationDirection: dir,
+                  animationPlayState: isPaused ? 'paused' : 'running',
+                } as React.CSSProperties
+              }
             >
               <div
                 className={`skill-node orbit-tier-${orbit.index + 1}`}
                 style={{
                   animationDuration: `${dur}s`,
-                  animationDirection: dir === 'reverse' ? 'normal' : 'reverse',
+                  animationDirection: dir,
                   animationPlayState: isPaused ? 'paused' : 'running',
                 }}
                 onMouseEnter={() => setPausedOrbit(orbit.index)}

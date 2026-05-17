@@ -12,8 +12,8 @@ export const SKILL_ORBITS: SkillOrbit[] = [
     duration: 15,
     skills: [
       { name: 'Git', icon: 'git' },
-      { name: 'GSAP', icon: 'greensock' },
-      { name: 'Framer', icon: 'framer' },
+      { name: 'Java', icon: 'openjdk' },
+      { name: 'PostgreSQL', icon: 'postgresql' },
     ],
   },
   {
@@ -32,8 +32,8 @@ export const SKILL_ORBITS: SkillOrbit[] = [
     radius: 280,
     duration: 35,
     skills: [
-      { name: 'HTML5', icon: 'html5' },
-      { name: 'CSS3', icon: 'css3' },
+      { name: 'Docker', icon: 'docker' },
+      { name: 'SVG', icon: 'svg' },
       { name: 'JavaScript', icon: 'javascript' },
       { name: 'TypeScript', icon: 'typescript' },
     ],

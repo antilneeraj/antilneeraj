@@ -65,12 +65,23 @@
 
 @layer components {
   /* Grid Background Pattern — matches Stitch design */
+  /* Enhanced Tactical Grid Background */
   .grid-bg {
-    background-size: 64px 64px;
+    background-size: 50px 50px;
     background-image:
-      linear-gradient(to right, #2d4030 1px, transparent 1px),
-      linear-gradient(to bottom, #2d4030 1px, transparent 1px);
-    background-position: top center;
+      linear-gradient(to right, rgba(45, 64, 48, 0.4) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(45, 64, 48, 0.4) 1px, transparent 1px);
+    background-position: center center;
+
+    /* Fades the grid at the top and bottom edges so it blends into the solid background */
+    mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      transparent 0%,
+      black 15%,
+      black 85%,
+      transparent 100%
+    );
   }
 
   /* Topographic Pattern */
@@ -303,20 +314,20 @@
    We animate rotation around the wrapper's own origin (top-left = center of container). */
 @keyframes orbit-node-spin {
   from {
-    rotate: 0deg;
+    transform: translate(-50%, -50%) rotate(var(--angle)) translateX(var(--radius));
   }
   to {
-    rotate: 360deg;
+    transform: translate(-50%, -50%) rotate(calc(var(--angle) + 360deg)) translateX(var(--radius));
   }
 }
 
 /* Counter-spin for the icon to stay upright */
 @keyframes skill-counter-spin {
   from {
-    rotate: 0deg;
+    rotate: var(--inv-angle);
   }
   to {
-    rotate: -360deg;
+    rotate: calc(var(--inv-angle) - 360deg);
   }
 }
 

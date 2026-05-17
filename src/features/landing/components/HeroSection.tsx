@@ -13,7 +13,7 @@ export function HeroSection() {
       <div
         className={`font-jetbrains absolute left-4 top-8 z-10 flex flex-col gap-1 text-[12px] font-medium leading-[1.2] tracking-[0.1em] text-[#8A8068] transition-opacity duration-700 md:left-16 ${revealed ? 'opacity-100' : 'opacity-0'}`}
       >
-        <span>COORD: 28.9845° N, 77.0197° E</span>
+        <span>COORD: 48.8812° S, 123.3462° W</span>
         <span>SECTOR: HARYANA — INDIA</span>
       </div>
 
