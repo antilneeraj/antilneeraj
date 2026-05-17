@@ -24,7 +24,7 @@ export function SocialChannels() {
       description: 'Career timeline, endorsements, and professional network.',
       cta: 'ACCESS PROFILE',
       url: 'https://linkedin.com/in/neerajantil',
-      iconUrl: 'src/assets/linkedin.svg',
+      iconUrl: 'https://github.com/antilneeraj/antilneeraj/blob/main/src/assets/linkedin.svg',
     },
   ]
 
