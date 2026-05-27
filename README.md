@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1C2E1F,50:2D4030,100:C9A84C&height=200&section=header&text=NEERAJ%20ANTIL&fontSize=60&fontAlign=50&fontAlignY=42&fontColor=e9e9e9&desc=Fullstack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=16&descAlign=50&descAlignY=62&descColor=C9A84C&animation=fadeIn&stroke=C9A84C" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1400&color=C9A84C&center=true&vCenter=true&width=480&lines=Open-source+contributor+who+loves+building+for+the+web.;Full-stack+developer+with+an+entrepreneurial+mindset.;Tech-savvy+student+exploring+AI+and+modern+web+technologies." alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1400&color=C9A84C&center=true&vCenter=true&width=480&lines=Open-source+contributor+who+loves+building+for+the+web.;Full-stack+developer+with+an+entrepreneurial+mindset.;Tech-savvy+student+exploring+AI+and+modern+web+technologies." alt="Typing" />
 </a>
 
 <br/>
